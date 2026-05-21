@@ -26,8 +26,7 @@ This project is a sales forecasting dashboard built using Power BI. The dashboar
 - DAX Calculations
 
 ## Dashboard Preview
-sales forecast 1.png
-sales forecast 2.png
-
+SALES FORECAST 1.png
+SALES FORECAST 2.png
 ## Author 
 Fowsiya Haji
